@@ -2,6 +2,6 @@
 
 Application to create a todo list, makes use of bootstrap framework for css
 
-# How to run
+# Deployed Project on Github Pages:
 
-In terminal run "npm start" and then go to the localhost 
+https://svelez1129.github.io/todo-app/
